@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+TensorFlow
+Keras
+pandas
+numpy
+requests
+Pillow
+python-dotenv
